@@ -1,0 +1,12 @@
+<resources>
+  <string name="app_name">TVComposeSample</string>
+
+  <string name="error_404">404エラー</string>
+  <string name="error_404_title">お探しのコンテンツが見つかりませんでした</string>
+  <string name="error_404_description">配信が終了したか、削除された可能性があります。</string>
+
+  <string name="action_show_detail">詳細はこちら</string>
+  <string name="action_close">閉じる</string>
+
+  <string name="toast_on_click_detail">詳細ボタンが押されました</string>
+</resources>
